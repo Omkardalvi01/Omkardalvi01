@@ -1,6 +1,6 @@
 ### Hi there, I'm Omkar👋
 - 🧠 Information Technology student at DJ Sanghvi <br/>
-- 🌱 I’m currently learning **AI** and **MLOps** <br/>
+- 🌱 I’m currently learning **AI** and **Backend** <br/>
 - 🤔 I’m looking for help with **open source contributions** <br/>
 - 📫 How to reach me: [dalviomkar0901@gmail.com](mailto:dalviomkar0901@gmail.com) <br/>
 
